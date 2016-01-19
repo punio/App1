@@ -35,5 +35,7 @@
 	<array>
 		<integer>1</integer>
 	</array>
+	<key>XSAppIconAssets</key>
+	<string>Resources/images.xcassets/AppIcons.appiconset</string>
 </dict>
 </plist>
